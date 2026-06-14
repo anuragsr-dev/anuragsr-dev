@@ -7,3 +7,7 @@
 <h3 align="center">
 Future Full-Stack Developer | Backend & DevOps Learner ⚡
 </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Learner;GenAI+Enthusiast" />
+</p>
