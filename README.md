@@ -11,3 +11,7 @@ Future Full-Stack Developer | Backend & DevOps Learner ⚡
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Learner;GenAI+Enthusiast" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5195ff69-bacf-4c59-a77c-553d91a2f6f0" width="700" />
+</p>
