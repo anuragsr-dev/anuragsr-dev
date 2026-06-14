@@ -33,3 +33,34 @@ Future Full-Stack Developer | Backend & DevOps Learner ⚡
 💭 Philosophy: “Build. Learn. Improve. Repeat.”
 
 ---
+
+# ⚒️ Tech Stack
+⚡ Technologies I use, explore, and continuously improve through real-world projects.
+
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws" />
+</p>
+
+### 🤖 AI & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- 🧠 Exploring GenAI & AI-powered workflows
+- 🚀 Learning CI/CD & scalable backend architecture
