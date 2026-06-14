@@ -15,3 +15,21 @@ Future Full-Stack Developer | Backend & DevOps Learner ⚡
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5195ff69-bacf-4c59-a77c-553d91a2f6f0" width="700" />
 </p>
+
+<h2>📌 About Me</h2>
+
+⚡ Turning ideas into modern web experiences through code and continuous learning.
+
+💻 Future Full Stack Developer exploring Backend, DevOps & AI-powered workflows
+
+🛠 Creating scalable web applications, automation systems & modern digital experiences
+
+🌱 Learning continuously through real-world projects and modern technologies
+
+🌐 Explore my portfolio: Wait a few more days
+
+📫 Reach me: anuragsrivastava.tech@gmail.com
+
+💭 Philosophy: “Build. Learn. Improve. Repeat.”
+
+---
