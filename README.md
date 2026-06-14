@@ -64,3 +64,15 @@ Future Full-Stack Developer | Backend & DevOps Learner ⚡
 
 - 🧠 Exploring GenAI & AI-powered workflows
 - 🚀 Learning CI/CD & scalable backend architecture
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anuragsr-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7B68EE&text_color=C9D1D9" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragsr-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=7B68EE&fire=58A6FF&currStreakLabel=58A6FF" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsr-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+</p>
