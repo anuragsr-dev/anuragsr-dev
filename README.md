@@ -26,7 +26,7 @@ Future Full-Stack Developer | Backend & DevOps Learner ⚡
 
 🌱 Learning continuously through real-world projects and modern technologies
 
-🌐 Explore my portfolio: Wait a few more days
+🌐 Explore my portfolio: https://anuragsrivastava.netlify.app
 
 📫 Reach me: anuragsrivastava.tech@gmail.com
 
