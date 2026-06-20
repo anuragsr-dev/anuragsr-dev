@@ -101,6 +101,7 @@ Future Full-Stack Developer | Backend & DevOps Learner ⚡
 > Don't spend money to impress people.
 > Invest it to improve yourself.
 
+---
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/anuragsr-dev/anuragsr-dev/output/github-contribution-grid-snake.svg" alt="snake animation" />
