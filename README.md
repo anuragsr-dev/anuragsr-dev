@@ -102,7 +102,6 @@ Future Full-Stack Developer | Backend & DevOps Learner ⚡
 > Invest it to improve yourself.
 
 ## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://github.com/anuragsr-dev/anuragsr-dev/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/anuragsr-dev/anuragsr-dev/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
